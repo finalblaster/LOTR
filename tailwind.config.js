@@ -9,7 +9,7 @@ export default {
       fontFamily: {
         sans:['Roboto', 'sans-serif'],
       },
-      grid:{'70/30':'70% 28%',}
+      grid:{'70/30':'70% 28%'},
     },
   },
   plugins: [],
