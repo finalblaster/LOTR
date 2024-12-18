@@ -270,28 +270,14 @@
       "id": "20",
       "title": "Product Manager",
       "type": "Full-Time",
-      "description": "We are looking for a Product Manager to lead the development and launch of new products. You will work closely with cross-functional teams to prioritize features, manage the product lifecycle, and ensure successful delivery.",
       "location": "Los Angeles, CA",
+      "description": "kikou",
       "salary": "$100K - $115K",
       "company": {
         "name": "InnovateTech",
-        "description": "InnovateTech is a leading tech company that develops innovative products in the software and hardware space. We are looking for a skilled Product Manager to help shape the future of our products.",
+        "description": "kikou",
         "contactEmail": "careers@innovatetech.com",
         "contactPhone": "555-234-8765"
-      }
-    },
-    {
-      "id": "b077",
-      "title": "Gogol",
-      "type": "Full-Time",
-      "location": "sqs",
-      "description": "Popo",
-      "salary": "Under $50K",
-      "company": {
-        "name": "qsq",
-        "description": "qsq",
-        "contactEmail": "dsqdqsds@hh.fr",
-        "contactPhone": "qsqsq"
       }
     }
   ]
